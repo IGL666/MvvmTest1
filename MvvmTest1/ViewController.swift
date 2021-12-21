@@ -27,6 +27,7 @@ class ViewController: UIViewController {
         //info.plist
         //프로퍼티 리스트에 App Transport Security Settings값 넣어주고
         //Allow Arbitrary Loads를 yes 값으로 해준다
+        //app http 보안상 접근 허용 하지않아 접근을 하기위해 설정
         
         
         fetchNow()
